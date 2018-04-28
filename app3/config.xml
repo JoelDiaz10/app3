@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.app3jqm" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>jQuery mobile</name>
+    <description>
+        A blank PhoneGap app.
+    </description>
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        Joel Díaz Martínez
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <icon src="Imagenes/icono.png" gap:density="ldpi" gap:platform="android" />
+    <icon src="Imagenes/icono.png" gap:density="mdpi" gap:platform="android" />
+    <icon src="Imagenes/icono.png" gap:density="hdpi" gap:platform="android" />
+    <icon src="Imagenes/icono.png" gap:density="xhdpi" gap:platform="android" />
+</widget>
